@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeMyBudget", "MakeMyBudget\MakeMyBudget.csproj", "{0607D5A2-25EE-4A7A-8A61-CA7B70F5AC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetCore", "BudgetCore\BudgetCore.csproj", "{5902B1C6-D9C6-43C6-BA0D-E7F9410085D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0607D5A2-25EE-4A7A-8A61-CA7B70F5AC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0607D5A2-25EE-4A7A-8A61-CA7B70F5AC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0607D5A2-25EE-4A7A-8A61-CA7B70F5AC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0607D5A2-25EE-4A7A-8A61-CA7B70F5AC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5902B1C6-D9C6-43C6-BA0D-E7F9410085D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5902B1C6-D9C6-43C6-BA0D-E7F9410085D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5902B1C6-D9C6-43C6-BA0D-E7F9410085D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5902B1C6-D9C6-43C6-BA0D-E7F9410085D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD297A47-5875-405A-BEDF-CA7ADBE2F9A0}
+	EndGlobalSection
+EndGlobal
