@@ -20,4 +20,4 @@ namespace MakeMyBudget
             Console.WriteLine(JsonConvert.SerializeObject(ConvertedJson));
         }
     }
-}
+} 
